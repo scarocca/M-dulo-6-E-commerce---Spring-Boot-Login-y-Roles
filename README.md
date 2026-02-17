@@ -30,7 +30,7 @@ Para ejecutar este proyecto localmente, sigue estos pasos:
 Clonar el repositorio:
 
 Bash
-git clone https://github.com/tu-usuario/cita-ideal.git
+git clone https://github.com/scarocca/M-dulo-6-E-commerce---Spring-Boot-Login-y-Roles.git
 Configurar la base de datos:
 
 Crea una base de datos en PostgreSQL llamada cita_ideal_db.
