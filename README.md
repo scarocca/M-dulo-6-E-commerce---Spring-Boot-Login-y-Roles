@@ -33,7 +33,7 @@ Bash
 git clone https://github.com/scarocca/M-dulo-6-E-commerce---Spring-Boot-Login-y-Roles.git
 Configurar la base de datos:
 
-Crea una base de datos en PostgreSQL llamada cita_ideal_db.
+Crea una base de datos en PostgreSQL llamadadb_portafolio_m6.
 
 Actualiza las credenciales en el archivo src/main/resources/application.properties.
 
