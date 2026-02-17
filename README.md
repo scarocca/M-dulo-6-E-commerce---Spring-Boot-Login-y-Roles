@@ -1,3 +1,11 @@
+<h1 align="center">👋 ¡Hola, soy Sergio Carocca!</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+💻;Java+%7C+Spring+Boot+%7C+javaScript;Aprendiendo+y+creciendo+cada+día+🚀" alt="Typing SVG" />
+</p>
+
+
+
 Título del Proyecto: CitaIdeal.cl 🌹
  Plataforma e-commerce para la gestión de citas, reservas y planes románticos.
 
@@ -33,7 +41,7 @@ Bash
 git clone https://github.com/scarocca/M-dulo-6-E-commerce---Spring-Boot-Login-y-Roles.git
 Configurar la base de datos:
 
-Crea una base de datos en PostgreSQL llamadadb_portafolio_m6.
+Crea una base de datos en PostgreSQL llamada db_portafolio_m6.
 
 Actualiza las credenciales en el archivo src/main/resources/application.properties.
 
